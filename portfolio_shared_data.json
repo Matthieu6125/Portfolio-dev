@@ -1,0 +1,51 @@
+{
+    "basic_info": {
+      "name": "Matthieu",
+      "titles": [ "Developer Node.js", "Developer React", "Developer Web et Web Mobile"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Matthieu6125",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/matthieu-lebreton-245a261b0/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original"
+        },
+        {
+          "name": "MangoDB",
+          "class": "devicon-mongodb-plain"
+        }
+      ]
+    }
+}
