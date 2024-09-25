@@ -51,7 +51,7 @@ const Projects = ({ resumeProjects, resumeBasicInfo }) => {
           <span>{sectionName}</span>
         </h1>
         <div className="col-md-12 mx-auto">
-          <div className="center mx-auto">{projects}</div>
+          <div className="row center mx-auto">{projects}</div>
         </div>
         <ProjectDetailsModal
           show={detailsModalShow}
