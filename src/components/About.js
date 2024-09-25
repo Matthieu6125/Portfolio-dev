@@ -5,7 +5,7 @@ import reactIcon from "@iconify/icons-logos/react";
 import expressIcon from "@iconify/icons-skill-icons/expressjs-light"; 
 
 const About = ({ sharedBasicInfo, resumeBasicInfo }) => {
-  const profilePic = sharedBasicInfo?.image ? `/Portfolio-dev/images/${sharedBasicInfo.image}` : "";
+  const profilePic = sharedBasicInfo?.image ? `/Portfolio-dev/images/Profile.jpeg` : "";
   const sectionName = resumeBasicInfo?.section_name?.about ?? "About";
   const hello = resumeBasicInfo?.description_header ?? "Hello!";
   const about = resumeBasicInfo?.description ?? "Description not available";
