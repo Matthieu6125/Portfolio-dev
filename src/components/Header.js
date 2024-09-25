@@ -28,8 +28,8 @@ const Header = ({ sharedData }) => {
   const name = sharedData ? sharedData.name : '';
 
   const backgroundImage = currentTheme === "dark"
-  ? "url('/images/fond-Acceuil-dark.jpg')"
-  : "url('/images/fond-acceuil-light.jpg')";
+  ? "url('/Portfolio-dev/images/fond-Acceuil-dark.jpg')"
+  : "url('/Portfolio-dev/images/fond-acceuil-light.jpg')";
  // const HeaderTitleTypeAnimation = useMemo(() => {
  //   return () => // className="title-styles" steps={titles} loop={50} />;
  // }, [titles]);

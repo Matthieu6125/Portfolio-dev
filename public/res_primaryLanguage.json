@@ -37,9 +37,9 @@
         "startDate": "2024",
         "description": "Mon projet préféré. L'objectif est de réaliser en collaboration avec un dev Frontend un site de Notation de livre. M'occupant du backend, j'explore Express et MangoBD. \nAuthentification, optimisation des images et routing sont les point clés du projet.",
         "images": [
-          "Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Home-page.png",
-          "Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Login-page.png",
-          "Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Ajouter-un-livre-page.png"
+          "/Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Home-page.png",
+          "/Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Login-page.png",
+          "/Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Ajouter-un-livre-page.png"
         ],
         "url": "https://github.com/Matthieu6125/P7-Dev-Web-livres",
         "technologies": [

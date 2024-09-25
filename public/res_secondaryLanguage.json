@@ -15,9 +15,9 @@
         "startDate": "2024",
         "description": "Kasa was my first React project. The purpose : retrieve data from a real property lease website to display those in clicable card. \n Responsive website ; component logic ; fetch ; props ; hook were the project's key words. ",
         "images": [
-          "Portfolio-dev/public/images/portfolio/Kasa/Home-page.png",
-          "Portfolio-dev/public/images/portfolio/Kasa/details-logement.png",
-          "Portfolio-dev/public/images/portfolio/Kasa/a-propos-page.png"
+          "/Portfolio-dev/images/portfolio/Kasa/Home-page.png",
+          "/Portfolio-dev/images/portfolio/Kasa/details-logement.png",
+          "/Portfolio-dev/images/portfolio/Kasa/a-propos-page.png"
         ],
         "url": "https://github.com/Matthieu6125/Kasa",
         "technologies": [
@@ -36,9 +36,9 @@
         "startDate": "2024",
         "description": "My favorite project so far. The purpose was to create in collaboration with a frontend developer a book rating website. So I took care of creating the backend side of this project where I explored Express and MongoBD.\nThe authentication, the optimisation of all the pictures and the routing were the main key points of this work.",
         "images": [
-          "Portfolio-dev/public/images/portfolio/Mon-vieux-Grimoire/Home-page.png",
-          "Portfolio-dev/public/images/portfolio/Mon-vieux-Grimoire/Login-page.png",
-          "Portfolio-dev/public/images/portfolio/Mon-vieux-Grimoire/Ajouter-un-livre-page.png"
+          "/Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Home-page.png",
+          "/Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Login-page.png",
+          "/Portfolio-dev/images/portfolio/Mon-vieux-Grimoire/Ajouter-un-livre-page.png"
         ],
         "url": "https://github.com/Matthieu6125/P7-Dev-Web-livres",
         "technologies": [
