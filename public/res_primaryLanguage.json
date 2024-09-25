@@ -1,0 +1,65 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "Moi c'est Matthieu Lebreton. Tu veux en savoir un peu plus sur moi, tu es au bon endroit. \n J'ai débuté le code dans un fablab, décidé à réaliser une application web de vote électronique. J'ai par la suite décider de me former au métier.\nEt me voilà à l'aube de mon diplôme.\nSpécialisé en javascript, je serai ravi de vous accompagner dans vos projets de la réalisation frontend en React au Backend en Node.js.\nPensez à me laisser un petit message m’expliquant vos besoins. ;)",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Kasa",
+        "startDate": "2024",
+        "description": "Kasa est mon premier projet React. Lobjectif : récupérer les données d'un site de location immobilière et les afficher en Card clicable. \n Site responcive, logique composant, fetch, props, hook sont les maitres mots de ce projet.",
+        "images": [
+          "/images/portfolio/Kasa/Home-page.png",
+          "/images/portfolio/Kasa/details-logement.png",
+          "/images/portfolio/Kasa/a-propos-page.png"
+
+        ],
+        "url": "https://github.com/Matthieu6125/Kasa",
+        "technologies": [
+          {
+            "name": "React",
+            "class": "devicon-react-plain"
+          },
+          {
+            "name": "Sass",
+            "class": "devicon-sass-original"
+          }
+        ]
+      },
+      {
+        "title": "Mon vieux Grimoire",
+        "startDate": "2024",
+        "description": "Mon projet préféré. L'objectif est de réaliser en collaboration avec un dev Frontend un site de Notation de livre. M'occupant du backend, j'explore Express et MangoBD. \nAuthentification, optimisation des images et routing sont les point clés du projet.",
+        "images": [
+          "/images/portfolio/Mon-vieux-Grimoire/Home-page.png",
+          "/images/portfolio/Mon-vieux-Grimoire/Login-page.png",
+          "/images/portfolio/Mon-vieux-Grimoire/Ajouter-un-livre-page.png"
+        ],
+        "url": "https://github.com/Matthieu6125/P7-Dev-Web-livres",
+        "technologies": [
+          {
+            "name": "React",
+            "class": "devicon-react-plain"
+          },
+          {
+            "name": "Css",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "name": "Express",
+            "class": "devicon-express-original"
+          },
+          {
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain"
+          }
+        ]
+      }
+    ]
+  }
