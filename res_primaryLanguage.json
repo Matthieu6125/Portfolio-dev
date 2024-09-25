@@ -15,9 +15,9 @@
         "startDate": "2024",
         "description": "Kasa est mon premier projet React. Lobjectif : récupérer les données d'un site de location immobilière et les afficher en Card clicable. \n Site responcive, logique composant, fetch, props, hook sont les maitres mots de ce projet.",
         "images": [
-          "Portfolio-dev/images/portfolio/Kasa/Home-page.png",
-          "Portfolio-dev/images/portfolio/Kasa/details-logement.png",
-          "Portfolio-dev/images/portfolio/Kasa/a-propos-page.png"
+          "/Portfolio-dev/images/portfolio/Kasa/Home-page.png",
+          "/Portfolio-dev/images/portfolio/Kasa/details-logement.png",
+          "/Portfolio-dev/images/portfolio/Kasa/a-propos-page.png"
 
         ],
         "url": "https://github.com/Matthieu6125/Kasa",
