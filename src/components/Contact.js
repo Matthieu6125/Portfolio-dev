@@ -1,7 +1,8 @@
 import React, { useRef } from 'react';
 import emailjs from 'emailjs-com';
 
-const ContactForm = () => {
+const ContactForm = (resumeBasicInfo) => {
+
   const form = useRef();
 
   const sendEmail = (e) => {
@@ -23,8 +24,8 @@ const ContactForm = () => {
   };
 
   return (
-    <div id="contact" className='pb-5 contact col-md-12'>
-      <h2>Contactez-moi</h2>
+    <section id="contact" className='pb-5 contact col-md-12'>
+      <h2>Contact</h2>
       <form ref={form} onSubmit={sendEmail} className="contact">
         <div className='contact font-trebuchet'>
           <label>Nom:</label>
@@ -40,7 +41,7 @@ const ContactForm = () => {
         </div>
         <button type="submit" className="button-submit-form-contact">Envoyer</button>
       </form>
-    </div>
+    </section>
   );
 };
 

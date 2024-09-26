@@ -57,13 +57,17 @@ const Header = ({ sharedData }) => {
             </h1>
             <div className="title-container">
               <HeaderTitleTypeAnimation />
-              </div>
+            </div>
+            <br />
+            <div className="contact-header mx-auto" onClick={() => document.getElementById("contact").scrollIntoView({ behavior: 'smooth' })}>
+              Contact
+            </div>
             <Switch
-              checked={checked}
+              checked={checked}              
               onChange={onThemeSwitchChange}
               offColor="#baaa80"
               onColor="#353535"
-              className="react-switch mx-auto"
+              className="react-switch mx-auto switch-position"
               width={90}
               height={40}
               uncheckedIcon={
