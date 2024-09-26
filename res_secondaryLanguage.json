@@ -6,7 +6,7 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Doświadczenie"
+        "contact": "Contact"
       }
     },
     "projects": [
@@ -17,7 +17,7 @@
         "images": [
           "/Portfolio-dev/images/portfolio/Kasa/Home-page.png",
           "/Portfolio-dev/images/portfolio/Kasa/details-logement.png",
-          "/Portfolio-dev/images/portfolio/Kasa/a-propos-page.png"
+          "/Portfolio-dev/images/portfolio/Kasa/A-propos-page.png"
         ],
         "url": "https://github.com/Matthieu6125/Kasa",
         "technologies": [
